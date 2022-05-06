@@ -1,4 +1,5 @@
 # TypeScript
 
 * npm install -g typescript
-* npx tsc --version
+* tsc --version
+* tsc --init
